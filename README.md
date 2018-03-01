@@ -1,21 +1,11 @@
-# client
+## gram-md
 
-> client for correctme
+Hack to use grammarly when editing `.md` files
 
-## Build Setup
+download binary from [realeases](https://github.com/scriptonist/gram-md/releases)
 
-``` bash
-# install dependencies
-npm install
+rename the binary to `gram-md`
 
-# serve with hot reload at localhost:8080
-npm run dev
+run `gram-md <filename>` to edit file in browser (with gramarly installed)
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+![preview](/image)
