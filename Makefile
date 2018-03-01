@@ -1,0 +1,3 @@
+pack:
+	npm run build
+	go install ./gram-md/...
