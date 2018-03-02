@@ -8,4 +8,4 @@ rename the binary to `gram-md`
 
 run `gram-md <filename>` to edit file in browser (with gramarly installed)
 
-
+![Image]('/gram-md.png')
